@@ -1,0 +1,13 @@
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\bin\Debug\netcoreapp3.1\practica_felipe.exe
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\bin\Debug\netcoreapp3.1\practica_felipe.deps.json
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\bin\Debug\netcoreapp3.1\practica_felipe.runtimeconfig.json
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\bin\Debug\netcoreapp3.1\practica_felipe.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\bin\Debug\netcoreapp3.1\practica_felipe.dll
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\bin\Debug\netcoreapp3.1\practica_felipe.pdb
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\obj\Debug\netcoreapp3.1\practica_felipe.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\obj\Debug\netcoreapp3.1\practica_felipe.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\obj\Debug\netcoreapp3.1\practica_felipe.AssemblyInfo.cs
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\obj\Debug\netcoreapp3.1\practica_felipe.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\obj\Debug\netcoreapp3.1\practica_felipe.dll
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\obj\Debug\netcoreapp3.1\practica_felipe.pdb
+C:\Users\pablo\source\repos\practica_felipe\practica_felipe\obj\Debug\netcoreapp3.1\practica_felipe.genruntimeconfig.cache
