@@ -1,0 +1,13 @@
+C:\Users\pablo\source\repos\wey\wey\bin\Debug\netcoreapp3.1\wey.exe
+C:\Users\pablo\source\repos\wey\wey\bin\Debug\netcoreapp3.1\wey.deps.json
+C:\Users\pablo\source\repos\wey\wey\bin\Debug\netcoreapp3.1\wey.runtimeconfig.json
+C:\Users\pablo\source\repos\wey\wey\bin\Debug\netcoreapp3.1\wey.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\wey\wey\bin\Debug\netcoreapp3.1\wey.dll
+C:\Users\pablo\source\repos\wey\wey\bin\Debug\netcoreapp3.1\wey.pdb
+C:\Users\pablo\source\repos\wey\wey\obj\Debug\netcoreapp3.1\wey.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\wey\wey\obj\Debug\netcoreapp3.1\wey.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\wey\wey\obj\Debug\netcoreapp3.1\wey.AssemblyInfo.cs
+C:\Users\pablo\source\repos\wey\wey\obj\Debug\netcoreapp3.1\wey.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\wey\wey\obj\Debug\netcoreapp3.1\wey.dll
+C:\Users\pablo\source\repos\wey\wey\obj\Debug\netcoreapp3.1\wey.pdb
+C:\Users\pablo\source\repos\wey\wey\obj\Debug\netcoreapp3.1\wey.genruntimeconfig.cache
