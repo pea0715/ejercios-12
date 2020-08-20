@@ -1,0 +1,13 @@
+C:\Users\pablo\source\repos\operaciones\operaciones\bin\Debug\netcoreapp3.1\operaciones.exe
+C:\Users\pablo\source\repos\operaciones\operaciones\bin\Debug\netcoreapp3.1\operaciones.deps.json
+C:\Users\pablo\source\repos\operaciones\operaciones\bin\Debug\netcoreapp3.1\operaciones.runtimeconfig.json
+C:\Users\pablo\source\repos\operaciones\operaciones\bin\Debug\netcoreapp3.1\operaciones.runtimeconfig.dev.json
+C:\Users\pablo\source\repos\operaciones\operaciones\bin\Debug\netcoreapp3.1\operaciones.dll
+C:\Users\pablo\source\repos\operaciones\operaciones\bin\Debug\netcoreapp3.1\operaciones.pdb
+C:\Users\pablo\source\repos\operaciones\operaciones\obj\Debug\netcoreapp3.1\operaciones.csprojAssemblyReference.cache
+C:\Users\pablo\source\repos\operaciones\operaciones\obj\Debug\netcoreapp3.1\operaciones.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\operaciones\operaciones\obj\Debug\netcoreapp3.1\operaciones.AssemblyInfo.cs
+C:\Users\pablo\source\repos\operaciones\operaciones\obj\Debug\netcoreapp3.1\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\operaciones\operaciones\obj\Debug\netcoreapp3.1\operaciones.dll
+C:\Users\pablo\source\repos\operaciones\operaciones\obj\Debug\netcoreapp3.1\operaciones.pdb
+C:\Users\pablo\source\repos\operaciones\operaciones\obj\Debug\netcoreapp3.1\operaciones.genruntimeconfig.cache
